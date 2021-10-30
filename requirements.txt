@@ -1,12 +1,8 @@
 requests
 pandas
-matplotlib.pyplot
+matplotlib
 numpy
-matplotlib.ticker
+matplotlib
 nltk
-nltk.corpus
-nltk.stem
-nltk.tokenize
-nltk.stem.snowball
 collections
 textblob
