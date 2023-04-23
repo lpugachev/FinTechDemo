@@ -1,4 +1,4 @@
-#
+# 
 #  stopwords.txt
 #
 #  Freely available stopword list, balancing coverage and size.
